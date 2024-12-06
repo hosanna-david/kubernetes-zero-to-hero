@@ -122,6 +122,34 @@ Usual production tasks:
 15. Cost Management:
 - Cost optimization strategies
 - Using tools like Kubecost
-![image](https://github.com/user-attachments/assets/211b47e2-3da2-4c1d-971d-a4794aa9af6e)
+
+Levels of Kubernetes:
+
+ - level 1
+Knows basic concepts. 
+Limited troubleshooting skill.
+ 
+- level 2
+Managing deployments, namespaces & scaling apps. 
+Troubleshoots issues with pods and deployments.
+ 
+- level 3
+Deep understanding of Kubernetes.
+Automate deployments.
+Debug advanced issues.
+ 
+- level 4
+Optimizes cluster performance.
+Follow Kubernetes security best practices.
+Designs & implements secure and scalable clusters.
+ 
+- level 5
+Ability to say - "We don't need Kubernetes for this problem."
+
+
+
+
+
+
 
 
