@@ -125,25 +125,25 @@ Usual production tasks:
 
 Levels of Kubernetes:
 
- - level 1
+ - level 1<br/>
 Knows basic concepts. 
 Limited troubleshooting skill.
  
-- level 2
+- level 2<br/>
 Managing deployments, namespaces & scaling apps. 
 Troubleshoots issues with pods and deployments.
  
-- level 3
+- level 3<br/>
 Deep understanding of Kubernetes.
 Automate deployments.
 Debug advanced issues.
  
-- level 4
+- level 4<br/>
 Optimizes cluster performance.
 Follow Kubernetes security best practices.
 Designs & implements secure and scalable clusters.
  
-- level 5
+- level 5<br/>
 Ability to say - "We don't need Kubernetes for this problem."
 
 
